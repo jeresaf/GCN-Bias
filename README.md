@@ -28,10 +28,10 @@ Download data at https://drive.google.com/drive/folders/1h2oILArbrTsdN5VrdhWAKpz
     - load GCN trained with original dataset with gender indicators<br>
     - predict occupation labels for original dataset<br>
 7. Analyses
-    - calculate TPR, TPR gender gap and $\pi_{g,y}$ for the gender "female"<br>
-    - plot for $\text{Gap}_{female,y}$ and $\pi_{female,y}$ and compute correlation <br>
+    - calculate TPR, TPR gender gap and <img src="https://render.githubusercontent.com/render/math?math=\pi_{g,y}"> for the gender "female"<br>
+    - plot for <img src="https://render.githubusercontent.com/render/math?math=\text{Gap}_{female,y}"> and <img src="https://render.githubusercontent.com/render/math?math=\pi_{female,y}"> and compute correlation <br>
     - compute gender imbalance and compounding factor<br>
     - load predictions on scrubbed test dataset<br>
-    - TPR, TPR gender gap and correlation between TPR gender gap and $\pi_{female,y}$ on scrubbed dataset<br>
-    - plot of $\text{Gap}_{female,y}$ and $\pi_{female,y}$ for original compared to scrubbed test dataset<br>
+    - TPR, TPR gender gap and correlation between TPR gender gap and <img src="https://render.githubusercontent.com/render/math?math=\pi_{female,y}"> on scrubbed dataset<br>
+    - plot of <img src="https://render.githubusercontent.com/render/math?math=\text{Gap}_{female,y}"> and <img src="https://render.githubusercontent.com/render/math?math=\pi_{female,y}"> for original compared to scrubbed test dataset<br>
     - proportion of compounding factors pulled towards 1 after scrubbing
