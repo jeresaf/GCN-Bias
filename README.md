@@ -8,6 +8,8 @@ Download data at https://drive.google.com/drive/folders/1h2oILArbrTsdN5VrdhWAKpz
 
 Note that this is only a demo and does not include the training of our TextGCN or the predictions for the "scrubbed" test dataset.
 
+Also, note that we ran into problems when running the demo locally using Jupyer notebooks due to conflicting packages. We had more success running on Google colab and mounting the Google drive to access our data. 
+
 1. Imports
     - import packages <br>
 2. Data
