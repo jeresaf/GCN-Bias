@@ -6,7 +6,7 @@ We use adapt the TextGCN by Yao et al. (2018) https://github.com/yao8839836/text
 
 Download data at https://drive.google.com/drive/folders/1h2oILArbrTsdN5VrdhWAKpzppwOXtyZO?usp=sharing .
 
-Note that this is only a demo and does not include the training of our textGCN or the predictions for the "scrubbed" test dataset.
+Note that this is only a demo and does not include the training of our TextGCN or the predictions for the "scrubbed" test dataset.
 
 1. Imports
     - import packages <br>
