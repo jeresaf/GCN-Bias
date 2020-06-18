@@ -20,7 +20,7 @@ Download data at https://drive.google.com/drive/folders/1h2oILArbrTsdN5VrdhWAKpz
     - build feature vectors and one hot labels for original test data<br>
     - load feature vectors, one hot labels and adjacency matrix for original training data from directory<br>
 5. Model
-    - define intialisation functions<br>
+    - define initialisation functions<br>
     - define layers<br>
     - define training metrics<br>
     - define model<br>
