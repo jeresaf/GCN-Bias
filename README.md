@@ -2,9 +2,11 @@
 
 ## Mitigating gender bias in occupation classification of job biographies with graph convolutional network
 
-Download data at https://drive.google.com/drive/folders/1h2oILArbrTsdN5VrdhWAKpzppwOXtyZO?usp=sharing
+We use adapt the textGCN by Yao et al (2019) https://github.com/yao8839836/text_gcn to classify job biographies from the https://github.com/Microsoft/biosbias dataset. We investigate the mitigation of gender bias by comparing the predictions of our trained model for the original test dataset and for a transformation of our test dataset where explicit gender indicators are removed or "scrubbed".
 
+Download data at https://drive.google.com/drive/folders/1h2oILArbrTsdN5VrdhWAKpzppwOXtyZO?usp=sharing .
 
+Note that this is only a demo and does not include the training of our textGCN or the predictions for the "scrubbed" test dataset.
 
 1. Imports
     - import packages <br>
